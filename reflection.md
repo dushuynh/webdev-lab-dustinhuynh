@@ -12,3 +12,7 @@ This section was very short. It only had the form exercise for accessibility. I 
 ### 03-css
 
 The selectors exercise in this section was a little confusing. I had to closely follow the video for this. While it is good practice, I feel like this exercise isn't very realistic. The second exercise was the opposite of tricky, and was honestly way too easy. The specificity exercise was good and straightforward. The layout one was a little confusing at first, but the video helped. Positions exercise was good, bit of a discrepency with the top and bottom height, but I just ignored it. For the last one, I basically just followed the video one for one. The video for this one is sort of tedious. This exercise feels almost like a navbar exercise rather than a media query one. Overall this section was useful and covered a good range of topics. 
+
+### 04-flexbox
+
+This flexbox activity was good. The video for it was good and straight to the point. I did try them on my own at first but ended up following the video when it got a bit difficult to do without looking too many things up. Overall good exercise.
