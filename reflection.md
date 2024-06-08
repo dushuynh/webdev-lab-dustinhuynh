@@ -27,3 +27,7 @@ Not sure why, but the instructions didn't work for me so I fully followed the vi
 ### 07-javascript
 
 The first exercise was very straight forward and simple. Same for the second and third exercise. The fourth one was pretty tricky and I had to follow the video. The fifth one is pretty simple but actually very very useful. For the fetch activity it was very complicated and I actually couldn't get it to work even following the video. I likely have a typo somewhere and couldn't find it. The last one wasn't as bad, but I also had to basically follow the video one for one because I wasn't familiar with it. While I think there could've been more covered, this section had some good quirks with javascript learned.
+
+### 08-jquery
+
+Doing DOM with jquery was so much easier than doing it with javascript alone. Aside from some annoying syntax, this exercise was great and makes the other one feel like it isn't even needed. The other exercise in this section also seemed very useful, but I couldn't get it work. I tried following the video but couldn't seem to replicate the same. Once again, I am likely having a typo somewhere that I can't seem to find. 
