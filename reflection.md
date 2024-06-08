@@ -19,3 +19,7 @@ This flexbox activity was good. The video for it was good and straight to the po
 ### 05-css-grid
 
 These two grid exercises were really good. I followed the video from the start because I wasn't very familiar with grid. The exercises were helpful with learning the basics as well as some tricks with it. I wouldn't change anything.
+
+### 06-bootstrap
+
+Not sure why, but the instructions didn't work for me so I fully followed the videos. The first exercise is good. I thought it was a little weird to copy paste the base of the code, but it covers the basics fine. For the grid exercise it was very easy and somewhat similar to the css grid. The second grid exercise was good and its cool seeing a different way of making it responsive. The modal exercise was fine, but the video was a little messy. It was still useful though. I think more bootstrap functionality could have been shown, but I think it covered a good amount.
