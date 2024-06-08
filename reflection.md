@@ -23,3 +23,7 @@ These two grid exercises were really good. I followed the video from the start b
 ### 06-bootstrap
 
 Not sure why, but the instructions didn't work for me so I fully followed the videos. The first exercise is good. I thought it was a little weird to copy paste the base of the code, but it covers the basics fine. For the grid exercise it was very easy and somewhat similar to the css grid. The second grid exercise was good and its cool seeing a different way of making it responsive. The modal exercise was fine, but the video was a little messy. It was still useful though. I think more bootstrap functionality could have been shown, but I think it covered a good amount.
+
+### 07-javascript
+
+The first exercise was very straight forward and simple. Same for the second and third exercise. The fourth one was pretty tricky and I had to follow the video. The fifth one is pretty simple but actually very very useful. For the fetch activity it was very complicated and I actually couldn't get it to work even following the video. I likely have a typo somewhere and couldn't find it. The last one wasn't as bad, but I also had to basically follow the video one for one because I wasn't familiar with it. While I think there could've been more covered, this section had some good quirks with javascript learned.
